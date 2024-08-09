@@ -40,8 +40,8 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 Team Member 1:
 
--   Full Name:
--   Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+-   Full Name: Tanjin Adnan Abir
+-   Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-EKYGukFvjnXc2T9
 
 Team Member 2:
 
